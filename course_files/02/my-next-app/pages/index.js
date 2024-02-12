@@ -58,6 +58,13 @@ export default function Home() {
             </a>
           </Link>
 
+          <Link href="/news/">
+            <a className={styles.card}>
+              <h2>Top Stories &rarr;</h2>
+              <p>Read articles currently on the homepage.</p>
+            </a>
+          </Link>
+
 
 
         </div>
